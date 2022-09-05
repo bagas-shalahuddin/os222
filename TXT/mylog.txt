@@ -1,5 +1,23 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L03 GitHub related
-ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 05 L11 Assignment #01: GitHub Account
+ZCZC W00 90 L02 ZOOM meetings related
+ZCZC W00 10 L12 Assignment #02: “TXT/mylog.txt”
+ZCZC W00 10 L13 Assignment #03: Create Your GitHub Page
+ZCZC W00 05 L14 Assignment #04: Course Registration
+ZCZC W00 20 L15 Assignment #05: Reading Assignment
+ZCZC W00 20 L16 Assignment #06: Revisit “TXT/mylog.txt”
+ZCZC W00 20 L01 SCELE/Discord related.
+ZCZC W00 90 L02 ZOOM meetings related
+ZCZC W00 40 L32 YouTube: watching OS Playlist
+ZCZC W00 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 90 L70 Studying for other courses
+ZCZC W00 60 L73 Gaming
+ZCZC W00 10 L29 OS Shoping related: buy a flashdisk
+ZCZC W00 30 L31 VirtualBox: install Ubuntu
+ZCZC W00 60 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
+ZCZC W00 60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W00 20 L06 Reading book from os-book.com
+ZCZC W00 60 L05 Quiz related including studying
+ZCZC W00 30 L41 TXT/mylog.txt related
