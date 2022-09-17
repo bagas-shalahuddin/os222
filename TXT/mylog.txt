@@ -29,3 +29,10 @@ ZCZC W01 120 L13 Working on Assignment #03: LINKS/
 ZCZC W01 80 L05 Quiz related including studying
 ZCZC W01 20 L14 Working on Assignment #04: Finishing
 ZCZC W01 20 L41 TXT/mylog.txt related
+ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 2 L41 TXT/mylog.txt related
+ZCZC W02 10 L03 Github and git related, including commit, push, pull
+ZCZC W02 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 2 L41 TXT/mylog.txt related
+ZCZC W02 80 L05 Quiz related including studying
