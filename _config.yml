@@ -4,7 +4,7 @@ author:     "Bagas Shalahuddin Wahid"
 title:      "OS222: Operating Systems 2022-2"
 githublink: "https://github.com/bagas-shalahuddin/os222/"
 myloglink:  "/TXT/mylog.txt"
-mypublickey:"/TXT/mypubkey.txt"
+mypublickey: "/TXT/mypubkey.txt"
 encoding:   UTF-8
 markdown:   kramdown
 input:      GFM
