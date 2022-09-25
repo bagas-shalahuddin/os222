@@ -40,6 +40,20 @@ A website that explains how to use GPG including generating key pair, exporting 
 3. [RSA Encryption Algoritm](https://youtu.be/4zahvcJ9glg)<br>
 This two-part video explains the mechanism behind the RSA encryption system.
 
+## Week 03
+
+1. [What is File System ?](https://www.howtogeek.com/196051/)<br>
+A file system is simply the method by which an operating system manages its files. Similarly to file systems, each operating system has its own file system.
+
+2. [Linux File Permission](https://www.howtogeek.com/67987/htg-explains-how-do-linux-file-permissions-work/)<br>
+Linux has a straightforward file permissions system that is simple to grasp. Each user has a relationship with a file or directory based on whether they can see, write, or execute it.
+
+3. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+A userspace filesystem called Fuse has a mount utility in addition to a kernel module and userspace library. Non-privileged mount permitted with fuse.
+
+4. [What is TAR File?](https://www.lifewire.com/tar-file-2622386)<br>
+In Linux and Unix systems, TAR files are popular, however they are simply used for storing data, not for compressing it.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
