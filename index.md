@@ -6,6 +6,7 @@
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL](https://os.vlsm.org/Log/bagas-shalahuddin.tar.bz2.txt) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
