@@ -54,6 +54,20 @@ A userspace filesystem called Fuse has a mount utility in addition to a kernel m
 4. [What is TAR File?](https://www.lifewire.com/tar-file-2622386)<br>
 In Linux and Unix systems, TAR files are popular, however they are simply used for storing data, not for compressing it.
 
+## Week 04
+
+1. [Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/)<br>
+This page describes the difference between data and numbers in addition to describing big and small endian. Examples are provided on this page so that they are easy to understand.
+
+2. [Physical and Logical Address](https://www.javatpoint.com/os-physical-and-logical-address-space)<br>
+A logical address created by the CPU is converted to a physical address in memory by the memory management unit (MMU).
+
+3. [Paging and Segmentation](https://www.enterprisestorageforum.com/hardware/paging-and-segmentation/)<br>
+Segmentation is a memory management approach in which each task is divided into a number of segments of various sizes, whereas paging divides process address space into blocks of the same size called pages.
+
+4. [Declaring & Initializing Pointers in C](https://youtu.be/b3G9RjG4l2s)<br>
+This video simply explain how to declare and initialize a pointers in C.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
