@@ -68,6 +68,20 @@ Segmentation is a memory management approach in which each task is divided into 
 4. [Declaring & Initializing Pointers in C](https://youtu.be/b3G9RjG4l2s)<br>
 This video simply explain how to declare and initialize a pointers in C.
 
+## Week 05
+
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+With the help of the storage allocation method known as virtual memory, secondary memory may be used as though it were a component of the main memory.
+
+2. [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
+Small, temporary memory is known as cache memory. The main memory information or components that the CPU commonly accesses are kept in the cache memory so that the processor may quickly and readily access them.
+
+3. [Memory Management in OS: Contiguous, Swapping, Fragmentation](https://www.guru99.com/os-memory-management.html)<br>
+The article discusses memory management strategies, explains swapping, discusses memory allocation, and discusses paging, fragmentation, segmentation dynamic loading, and linking with variations from the static version.
+
+4. [Thrashing in Operating System (OS)](https://www.thecrazyprogrammer.com/2019/02/thrashing-in-operating-system-os.html)<br>
+We must comprehend page faults and swapping, as the article states. They both have a connection to the thrashing process. When a page defect occurs more frequently and is followed by a greater rate of swapping, the operating system must spend more time swapping these pages.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
