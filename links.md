@@ -82,6 +82,20 @@ The article discusses memory management strategies, explains swapping, discusses
 4. [Thrashing in Operating System (OS)](https://www.thecrazyprogrammer.com/2019/02/thrashing-in-operating-system-os.html)<br>
 We must comprehend page faults and swapping, as the article states. They both have a connection to the thrashing process. When a page defect occurs more frequently and is followed by a greater rate of swapping, the operating system must spend more time swapping these pages.
 
+## Week 06
+
+1. [Process and Threads in OS](https://www.youtube.com/watch?v=ITc09gOrqZk)<br>
+This video explains the distinction between processes and threads using examples from everyday life. I frequently struggle with understanding this subject, but after viewing this video, you should have no trouble answering the questions.
+
+2. [Single-threaded and Multi-threaded Processes](https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes)<br>
+Single-threaded processes only carry out one set of instructions at a time. In other words, each command is handled separately. Multithreaded processes are the opposite of single-threaded processes. These procedures enable the concurrent execution of numerous program components. These are the available, light operations in the process.
+
+3. [All You Need To Know About Processes in Linux](https://www.tecmint.com/linux-process-management/)<br>
+A program in execution is referred to as a process; it is a running instance of a program. A process usually starts a new one when it produces an identical replica of itself in memory. The sole difference between the child process' environment and that of its parent is the process ID number. The first program launched when a Linux system boots is the Init process, which is the mother (parent) of all processes on the system.
+
+4. [fork in C](https://www.geeksforgeeks.org/fork-system-call/)
+One of the crucial concepts you need to understand in the Operating system course is the fork system call. A new process known as a "child process" is created with the fork system function and runs simultaneously with the process that invoked fork() (parent process).
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
