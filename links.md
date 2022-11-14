@@ -93,8 +93,23 @@ Single-threaded processes only carry out one set of instructions at a time. In o
 3. [All You Need To Know About Processes in Linux](https://www.tecmint.com/linux-process-management/)<br>
 A program in execution is referred to as a process; it is a running instance of a program. A process usually starts a new one when it produces an identical replica of itself in memory. The sole difference between the child process' environment and that of its parent is the process ID number. The first program launched when a Linux system boots is the Init process, which is the mother (parent) of all processes on the system.
 
-4. [fork in C](https://www.geeksforgeeks.org/fork-system-call/)
+4. [fork in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 One of the crucial concepts you need to understand in the Operating system course is the fork system call. A new process known as a "child process" is created with the fork system function and runs simultaneously with the process that invoked fork() (parent process).
+
+## Week 07
+
+1. [Process Synchronization in Operating System](https://my.eng.utah.edu/~cs5460/slides/Lecture07.pdf)<br>
+The fundamental principles of most synchronization are as follows: Make one of the threads, processes, interrupt handlers, etc. hold until it is safe to continue if two of them are about to have conflicting accesses.
+
+2. [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/)<br>
+The term "critical section" refers to a code segment that is accessed by several programs. The shared variables or resources in the critical section must be synchronized in order to ensure the consistency of the data variable.
+
+3. [Difference between Mutex and Semaphore in Operating System](https://afteracademy.com/blog/difference-between-mutex-and-semaphore-in-operating-system)<br>
+A resource access can be synchronized using mutex, a mutual exclusion object. A program is given a special name right away. A semaphore is a signaling device after that. You may learn about mutex and semaphore differences by reading this webpage. To help you comprehend mutex and semaphore better, they also provide a simple example.
+
+4. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
+Deadlock is a situation where a group (or more) of processes are unable to finish because they are each holding resources that the other processes require. It will become a cyclic wait in this circumstance.
+
 
 <br>
 <hr>
