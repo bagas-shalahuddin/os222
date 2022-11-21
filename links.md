@@ -110,6 +110,13 @@ A resource access can be synchronized using mutex, a mutual exclusion object. A 
 4. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 Deadlock is a situation where a group (or more) of processes are unable to finish because they are each holding resources that the other processes require. It will become a cyclic wait in this circumstance.
 
+## Week 08
+
+1. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+I/O time and CPU time are often both consumed throughout a procedure. A mono programming system like MS-DOS wastes time while the CPU is idle while waiting for I/O. One process in a multiprogramming system may use a CPU while another waits for I/O. Only with process scheduling is this feasible.
+
+2. [Deadline scheduler in Operating System](https://www.geeksforgeeks.org/deadline-scheduler-in-operating-system/)<br>
+The Linux kernel's Deadline Scheduler is an I/O scheduler that ensures a request's start-service time. To stop unwanted requests, the deadline scheduler enforces deadlines on all I/O activities. Two deadline read and write queues are kept, which are essentially ordered by their deadline. The scheduler chooses which queue will handle each new request. Because processes frequently become stuck when reading operations are in progress, read queues are given higher priority than write queues.
 
 <br>
 <hr>
